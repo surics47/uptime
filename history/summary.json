@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Website",
+    "url": "https://adityacprtm.dev",
+    "icon": "https://adityacprtm.dev/img/icons/favicon-32x32.png",
+    "slug": "website",
+    "status": "up",
+    "uptime": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
+    "time": 183,
+    "timeDay": 147,
+    "timeWeek": 307,
+    "timeMonth": 224,
+    "timeYear": 202,
+    "dailyMinutesDown": {
+      "2025-02-12": 16
+    }
+  }
+]

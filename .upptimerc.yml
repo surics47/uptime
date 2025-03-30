@@ -1,0 +1,21 @@
+owner: surics47
+repo: uptime
+user-agent: Surendra Kumar
+
+sites:
+  - name: Website
+    url: https://www.devopswithsuri.com/
+    icon: https://www.devopswithsuri.com/favicon.ico
+    maxResponseTime: 5000
+
+status-website:
+  cname: uptime.devopswithsuri.com
+  theme: dark
+  logoUrl: https://your-logo-url.com/logo.png
+  name: Uptime | DevOpsWithSuri
+  favicon: https://www.devopswithsuri.com/favicon.ico
+  navbar:
+    - title: Status
+      href: /
+    - title: GitHub
+      href: https://github.com/surics47/uptime
